@@ -1,0 +1,89 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    width: 100%;
+    height: dvh;
+    border: solid;
+    background-image: url("free-photo-of-close-up-of-colorful-javascript-code-on-screen.jpeg");
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 1000px;
+    height: 700px;
+    background-color: rgb(43, 41, 41);
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    box-shadow: 5px 10px 5px; 
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 50px;
+    
+}
+
+.main {
+    gap: 20px;
+
+
+    h1 {
+        font-size: 39px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: 600;
+        color: white;
+        text-align: center;
+        box-shadow: 5px 8px 3px;
+        background-color: rgb(63, 160, 216);
+        padding-top: 30px;
+        padding-bottom: 30px;
+    
+        
+
+    }
+
+    p {
+        font-size: 20px;
+        padding-top: 20px;
+        color: blue;
+        background-color: rgb(196, 196, 209);
+        padding: 20px;
+        padding-top: 20px;
+    }
+
+}
+.one {
+    background-color: rgb(196, 196, 209);
+    padding-top: 20px;
+
+    h2 {
+        font-size: 25px;
+        color: rgb(17, 7, 73);
+        padding: 20px;
+
+    }
+
+    ol {
+        font-size: 20px;
+        padding: 40px;
+        padding-top: 25px;
+        color: blue;
+
+
+
+    }
+
+    ul {
+        font-size: 20px;
+        color: blue;
+        padding: 40px;
+
+    }
+    span{
+        color: rgb(26, 3, 48);
+    }
+
+}
